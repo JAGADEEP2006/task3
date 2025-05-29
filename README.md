@@ -1,1 +1,5 @@
-# task3
+Slope (Coefficient): 109.13799339677543
+Intercept: 55034.687859003665
+Mean Absolute Error (MAE): 8411.483865215036
+Mean Squared Error (MSE): 129840401.23337297
+R² Score: 0.7922553580266032
